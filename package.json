@@ -1,0 +1,22 @@
+{
+  "name": "rn-nodeify-tls",
+  "version": "0.0.0",
+  "description": "tls module for overriding node's module in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMagination/rn-nodeify-tls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VMagination/rn-nodeify-tls/issues"
+  },
+  "homepage": "https://github.com/VMagination/rn-nodeify-tls#readme",
+  "dependencies": {
+    "react-native-tcp-socket": "^6.0.1"
+  }
+}
